@@ -8,14 +8,6 @@ Single Page TODO Application
 
  Check it out [here](https://grammable-em-estabillo.herokuapp.com/).
 
-## API References
-Devise: (https://github.com/plataformatec/devise)
-Factory Girl: (https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md)
-Bootstrap: (https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-Simple form: (https://github.com/plataformatec/simple_form)
-Carrierwave: (https://github.com/carrierwaveuploader/carrierwave)
-Figaro: (https://github.com/laserlemon/figaro)
-
 ## Contribute
 
 1. Fork it!
