@@ -15,7 +15,7 @@ gem 'carrierwave', '~> 1.0'
 
 gem "figaro"
 
-gem "fog"
+gem "fog-aws"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.1'
@@ -65,5 +65,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
-  gem "factory_girl_rails", "~> 4.0"
+  gem "factory_bot_rails"
 end
