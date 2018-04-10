@@ -1,6 +1,6 @@
 # Grammable
 
-Single Page TODO Application
+Test Driven Development
 
 ![grammable](app/assets/images/grammable.png)
 
